@@ -9,7 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://tse1.mm.bing.net/th/id/OIP.mdZKhrM1pu57igKlIQx0ywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "src": "https://www20.online-convert.com/v2/dl/web7/download-file/0d3d8197-a317-4f0f-acca-7860c4ef6ba2/OIP.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": https://www20.online-convert.com/v2/dl/web7/download-file/0d3d8197-a317-4f0f-acca-7860c4ef6ba2/OIP.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
