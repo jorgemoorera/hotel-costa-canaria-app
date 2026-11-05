@@ -2,19 +2,15 @@
   "name": "Hotel Bull Costa Canaria",
   "short_name": "Bull Hotel",
   "description": "App exclusiva para huéspedes del Hotel Bull Costa Canaria & Spa",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#08101E",
   "theme_color": "#D4AF37",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "./logo-hotel-app.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./logo-hotel-app.png",
+      "src": "https://tse1.mm.bing.net/th/id/OIP.mdZKhrM1pu57igKlIQx0ywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
