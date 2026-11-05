@@ -1690,11 +1690,9 @@
     document.addEventListener("DOMContentLoaded", function() {
         const cookieBanner = document.getElementById('cookie-banner');
         // Comprueba si existe la cookie real 'cookieConsent'
-        if (!getCookie('cookieConsent')) {
-            setTimeout(() => {
-                cookieBanner.classList.remove('translate-y-full');
-            }, 1000);
-        }
+        setTimeout(() => {
+            cookieBanner.classList.remove('translate-y-full');
+        }, 1000);
     });
 
     // Función para crear cookies HTTP en el navegador
